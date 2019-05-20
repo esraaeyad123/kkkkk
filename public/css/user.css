@@ -1,0 +1,40 @@
+body{
+	background-color :#3333333 ;
+	margin:0 ;
+	padding :0 ;
+	font-family: 'Lora', serif;
+}
+.card{
+	background-color : white ;
+	height :420 px ;
+width :300px  ;
+position :absolute ;
+margin:auto ;
+top :0  ;
+bottom :0 ;
+left : 0;
+right :0 ;
+box-shadow : 5px 5px 15px 10px #262626 ;
+border-radius :10px ;
+`	
+	
+	
+}
+.upper{
+	
+	height:150px ;
+	width:300 px ;
+	background-color:#4158d0 ;
+	background-image :linear-gradient(43deg ,#4158d0 0% , #c850c0 30% ,#ffcc70 66% );
+	border-radius :10px 10px 0px 0px ;
+
+}
+img{
+	
+	border-radius:50% ;
+	position:relative ;
+	top : 80px  ;
+	left : 90px;
+	border :  7px solid white ;
+	
+}
